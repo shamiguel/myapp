@@ -47,7 +47,7 @@
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "8379874829869745526"
+          "hash": "9340291915102304779"
         },
         {
           "file": ".nx/cache/d/server-process.json",
@@ -55,7 +55,7 @@
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "3708546691281426379"
+          "hash": "17304409900116472981"
         },
         {
           "file": ".nx/cache/lockfile.hash",
@@ -141,7 +141,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "6353175102109202830"
+          "hash": "17816966185630879015"
         },
         {
           "file": "src/app/app.component.scss",
@@ -434,7 +434,59 @@
         },
         {
           "file": ".nx/cache/terminalOutputs/6213702755587835923",
-          "hash": "18397195107914744138"
+          "hash": "3037736489943754147"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/12094727497720255947",
+          "hash": "1160693301621372051"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/runtime.fb7cab9f2605ac5d.js",
+          "hash": "3493952201780865578"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/3rdpartylicenses.txt",
+          "hash": "4806149190766303639"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "5629618575612059392"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/terminalOutput",
+          "hash": "1160693301621372051"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/polyfills.e7cfd3d7550b88b8.js",
+          "hash": "3232677082900348095"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/styles.ef46db3751d8e999.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947.tar.gz",
+          "hash": "14729437748299773219"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/index.html",
+          "hash": "5235930499002782365"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/outputs/dist/myapp/main.4d07ca17b4a4fe97.js",
+          "hash": "5099277008646481967"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947.commit",
+          "hash": "4664556114322093609"
+        },
+        {
+          "file": ".nx/cache/12094727497720255947/code",
+          "hash": "1838281907459330133"
         }
       ]
     }
